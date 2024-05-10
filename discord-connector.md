@@ -16,6 +16,29 @@ Now click on the sidebar and go to the "Bot" section.</br>
 Make sure to enable every Intent.</br>
 ![Intents](https://i.imgur.com/vfrqOzo.png)
 
-And now you have created a Discord bot!
+And now you have created a Discord bot! 
+
+## Bot token
+To copy your bot token. Click on "Reset Token"
+[!token](https://i.imgur.com/B9fxBtN.png)
+
+And then copy.
 
 ## Configuration
+Download the open.mp pre-release version from [here](https://github.com/maddinat0r/samp-discord-connector/releases/tag/v0.3.6-pre).
+
+Extract the contents of the download, put the .inc file in your `qawno/include` folder. And the plugin file (.dll or .so) into the *COMPONENTS* folder. 
+
+Now open up your Pawn script and include it as follows and compile your script.
+```c
+#include <discord-connector>
+```
+
+Edit your configuration file (config.json) as follows:
+```json
+   "discord": {
+      "bot_token": "your_bot_token_here"
+   }
+```
+
+Please do not share your token with anyone.
