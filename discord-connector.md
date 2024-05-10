@@ -19,8 +19,8 @@ Make sure to enable every Intent.</br>
 And now you have created a Discord bot! 
 
 ## Bot token
-To copy your bot token. Click on "Reset Token"
-[!token](https://i.imgur.com/B9fxBtN.png)
+To copy your bot token. Click on "Reset Token"</br>
+![token](https://i.imgur.com/B9fxBtN.png)
 
 And then copy.
 
