@@ -8,7 +8,6 @@ First thing we are going to do is create a Discord bot. How do we do that? Head 
 
 After you clicked that, enter the name you want the bot to have:
 ![New Application](https://i.imgur.com/5YTtI9x.png).
-
 Agree to the ToS and DP and click "Create".
 
 Now click on the sidebar and go to the "Bot" section.</br>
