@@ -43,5 +43,5 @@ Edit your configuration file (config.json) as follows:
 
 Please do not share your token with anyone.
 
-## Bot is online
-Now, your bot should be online. If you encounter any issues please let Mido know.
+## Start
+You can now start the server, your bot should be online. If you encounter any issues please let Mido know.
