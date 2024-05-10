@@ -27,7 +27,7 @@ And then copy.
 ## Configuration
 Download the open.mp pre-release version from [here](https://github.com/maddinat0r/samp-discord-connector/releases/tag/v0.3.6-pre).
 
-Extract the contents of the download, put the .inc file in your `qawno/include` folder. And the plugin file (.dll or .so) into the *COMPONENTS* folder. 
+Extract the contents of the download, put the .inc file in your `qawno/include` folder. And the plugin file (.dll or .so) into the **COMPONENTS** folder. 
 
 Now open up your Pawn script and include it as follows and compile your script.
 ```c
@@ -42,3 +42,6 @@ Edit your configuration file (config.json) as follows:
 ```
 
 Please do not share your token with anyone.
+
+## Bot is online
+Now, your bot should be online. If you encounter any issues please let Mido know.
