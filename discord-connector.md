@@ -11,5 +11,5 @@ After you clicked that, enter the name you want the bot to have:
 
 Agree to the ToS and DP and click "Create".
 
-Now click on the sidebar and go to the "Bot" section.
+Now click on the sidebar and go to the "Bot" section.</br>
 ![Bot](https://i.imgur.com/RYUc68w.png).
