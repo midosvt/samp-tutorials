@@ -14,7 +14,7 @@ Agree to the ToS and DP and click "Create".
 Now click on the sidebar and go to the "Bot" section.</br>
 ![Bot](https://i.imgur.com/RYUc68w.png).
 
-Make sure to enable every Intent.
-![Intents](https://i.imgur.com/vfrqOzo.png.
+Make sure to enable every Intent.</br>
+![Intents](https://i.imgur.com/vfrqOzo.png).
 
 And now you have created a Discord bot!
