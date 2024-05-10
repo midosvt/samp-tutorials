@@ -6,7 +6,7 @@ Discord connector is a plugin for San Andreas Multiplayer (SA-MP). It allows you
 ## Creating a Discord bot
 First thing we are going to do is create a Discord bot. How do we do that? Head over to [Discord Developer Portal](https://discord.com/developers/applications) and click on "New Application"
 
-After you clicked that, enter the name you want the bot to have:
+After you clicked that, enter the name you want the bot to have:</br>
 ![New Application](https://i.imgur.com/5YTtI9x.png)</br>
 Agree to the ToS and DP and click "Create".
 
